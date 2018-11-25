@@ -1,4 +1,6 @@
 Binaries/
 Intermediate/
 Saved/
+DerivedDataCache/
+Build/
 .vs/
